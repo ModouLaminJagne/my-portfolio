@@ -19,7 +19,7 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world. From
+      I've worked with a range a technologies in the web development world. From Front-End,
       Back-end To Design
     </SectionText>
     <List>
@@ -43,7 +43,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Python and Django
           </ListParagraph>
         </ListContainer>
       </ListItem>
