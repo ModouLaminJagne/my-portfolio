@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {
+import { 
   Section,
   SectionText,
   SectionTitle,
@@ -12,13 +12,11 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        My Portfolio Website
+        Hello there, <br />
+        I'm Modou Lmain Jagne
       </SectionTitle>
       <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established
-        developers to take their development skills to the next level and build
-        awesome apps.
+       I'm a Web Developer, a programmer and UI/UX designer. I can help build your websites, create greate designs for you websites or mobile apps.
       </SectionText>
       <Button
         onClick={() => (window.location = 'https://github.com/ModouLaminJagne')}

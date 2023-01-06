@@ -15,13 +15,13 @@ import {
 } from './ProjectsStyles';
 import {
   Section,
-  SectionDivider,
+ SectionDivider,
   SectionTitle,
 } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
 
 const Projects = () => (
-  <Section nopadding id="projects">
+  <Section nopadding id="projects"> 
     <SectionDivider />
     <SectionTitle main>Projects</SectionTitle>
     <GridContainer>
