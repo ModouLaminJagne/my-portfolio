@@ -70,7 +70,7 @@ export const CompanyContainer = styled.div`
 	@media ${props => props.theme.breakpoints.md}{
 		flex-direction: column;
 		align-items: baseline;
-	}
+	} 
 
 	@media ${props => props.theme.breakpoints.sm}{
 		display: flex;
