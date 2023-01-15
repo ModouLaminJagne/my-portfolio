@@ -7,3 +7,4 @@ Evne though it cannot show everything about us, it plays an important roll in dh
 This is my portfolio website, built with REACT.js, NEXT.js and styled components.
 
 This webste contains my info but anyone can customize it to fit their profile.
+To have the peoject, you have to clone the repo or download the zip file.
