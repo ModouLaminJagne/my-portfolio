@@ -21,11 +21,11 @@ To have the peoject, you have to clone the repo or download the zip file.
 
     Contains information about some of my projects
 
-<!--# Technologies section
+# Technologies section
 
     Contains information about technologies I've used in my career so far.
 
-# Timeline section
+<!--# Timeline section
 
     Contains information about my progress since I started.
 
