@@ -29,6 +29,6 @@ To have the peoject, you have to clone the repo or download the zip file.
 
     Contains information about my progress since I started.
 
-<!--# Acomplishments section
+# Acomplishments section
 
-    Contains information about my accomplishments so far. -->
+    Contains information about my accomplishments so far.
