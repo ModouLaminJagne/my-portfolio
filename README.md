@@ -19,7 +19,8 @@ To have the peoject, you have to clone the repo or download the zip file.
 
 # Projects section
 
-    Contains information about some of my projects
+    Contains information about some of my projects.
+    There are 4 of my projects displayed. If you want to use the source code, you can have as many projects as possible.
 
 # Technologies section
 
