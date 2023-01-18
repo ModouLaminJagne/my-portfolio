@@ -24,7 +24,7 @@ To have the peoject, you have to clone the repo or download the zip file.
 
 # Technologies section
 
-    Contains information about technologies I've used in my career so far.
+    Contains information about technologies I've used in my career so far. They include Bootsstarp, REACT.js, Django, Figma.
 
 # Timeline section
 
