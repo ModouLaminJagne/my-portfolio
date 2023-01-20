@@ -28,7 +28,7 @@ To have the peoject, you have to clone the repo or download the zip file.
 
 # Timeline section
 
-    Contains information about my progress since I started.
+    Contains information about my progress since I started. Since I So far I have learnt much about developement and codeing.
 
 # Acomplishments section
 
